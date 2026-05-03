@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "workspace",
+			"path": "../../../../Copilot Country/aiflows/workspace"
+		},
+		{
+			"name": "Copilot Country",
+			"path": "../../../../Copilot Country"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
